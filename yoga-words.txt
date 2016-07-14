@@ -1,9 +1,30 @@
 
+Yoga Words
+==========
+
+Links
+-----
+
+- sanskrit alphabet song:
+https://www.youtube.com/watch?v=e88CdSBBY-k
+
+- sanskrit alphabet song (with transliteration):
+https://www.youtube.com/watch?v=W_DF5BuRKZE
+
+Legend
+------
+
 <sanskrit>
 <sanksrit transliteration>
 <english translation>
 <hindi>
 <hindi transliteration>
+
+धृत् / धृत
+dhRt / dhRta
+bearing, holding, supporting / held
+धरती
+earth, ground(ed)
 
 कटि
 kaTi
