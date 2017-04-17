@@ -11,8 +11,10 @@
 
 आ - come
 आई - came ("she came")
+आओ - come
 आग - fire
 आज - today
+आते - come
 आप - you
 आम - mango
 आया - come ("he came")
@@ -72,6 +74,7 @@
 की - of
 कीकर - partridge
 कुसुम - flower
+केले - banana
 
 खाना - food
 खा - eat
@@ -80,6 +83,8 @@
 खीर - kheer
 खुश - happy
 खून - blood
+खेले - played
+खेल - sport
 
 गई - was, has been
 गऊ - cow
@@ -144,6 +149,7 @@
 निकाल - answer, result
 निकल - out
 निकला - come out
+नेक - honest, noble
 
 पडी - lying (down)
 पढ़ - read
@@ -154,7 +160,9 @@
 पी - drink
 पीतल - brass
 पीपल - peepal (tree)
+पीछे - behind
 पुल - bridge
+पेड़ - tree
 प्यास - thirst
 
 फल - fruit
@@ -163,6 +171,7 @@
 बजा - play
 बजी - ring out
 बना - make
+बनाओ - make
 बस - bus
 बहला - cheer
 बहुत - very, much, many, great
@@ -174,6 +183,7 @@
 
 भालू - bear
 भूल - forget
+भेड़ - sheep
 
 मछली - fish
 मत - don't (verb)
@@ -184,12 +194,18 @@
 माला - garland
 माली - gardener
 मित्र - friend
+मोर - peacock
+मेले - carnival, fair
+
+ये - these
 
 रख - keep (it)
 राग - music
 रानी - queen
 रुपया - rupees, money
 रूप - form, shape, beauty
+रेल - rail
+रे - let us
 
 लाई - brought ("she brought")
 लाया - brought
@@ -202,6 +218,7 @@
 वीर - brave
 
 शिकार - hunt, prey
+शेर - lion
 
 सितार - sitar
 सीटी - whistling
@@ -210,6 +227,7 @@
 सुन - listen
 सुनार - goldsmith
 सूरज - sun
+सेब - apple
 
 हर - every
 हाथ - hand
