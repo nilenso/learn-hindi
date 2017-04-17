@@ -30,6 +30,8 @@
 ## उ ##
 
 उठ - get up
+उड़ - fly
+उन - those
 उल्लू - owl
 
 ## ऊ ##
@@ -67,41 +69,50 @@
 किरन - ray, beam (of sun)
 की - of
 कीकर - partridge
+कुसुम - safflower
 
 खाना - food
 खा - eat
 खिल - blossom, bloom
 खीर - kheer
+खुश - happy
 
+गई - was, has been
+गमला - flower pot
 गा - sing
 गाड़ी - vehicle, cart
 गाना - song
-गमला - flower pot
 गणित - math
+गुड़िया - doll
+गुलाब - rose
 
 घड़ी - clock
 घर - house, home
 
+चल - walk, move, go, run
+चली - walk, move, go, run
 चाचा - uncle (father's younger brother)
 चिड़िया - bird
 चित्र - picture
 चीख - scream
-चल - walk, move, go, run
-चली - walk, move, go, run
+चुप - quiet (stay quiet)
 
 छड़ी - rod, stick
+छुप - hide
 
 डाली - branch
 
+तकली - spindle
 तितली - butterfly
 तीर - arrow
-तकली - spindle
+तुम - you
 
 थाली - plate
 
 दादा - grandfather (father's father)
 दिन - day
 दिल - heart, mind
+दुम - tail
 
 धरती - earth, ground
 
@@ -114,14 +125,15 @@
 निकाल - answer, result
 निकल - out
 
-पापा - dad
-पानी - water
-पीतल - brass
-पीपल - peepal (tree)
 पडी - lying (down)
 पढ़ - read
 पर - on, at, of, upon, onto
 प्रश्न - question
+पापा - dad
+पानी - water
+पीतल - brass
+पीपल - peepal (tree)
+पुल - bridge
 
 फल - fruit
 
@@ -130,7 +142,11 @@
 बना - make
 बस - bus
 बहला - cheer
+बहुत - very, much, many, great
 बाजा - trumpet
+बुन - weaving
+बुलबुल - nightingale
+बुढ़िया - old woman
 
 मछली - fish
 माता - mother
@@ -143,13 +159,16 @@
 रख - keep (it)
 राग - music
 रानी - queen
+रुपया - rupees, money
 
 लाई - brought ("she brought")
 लाया - brought
 लाला - sir?
 लिख - write
 लड़ी - row (of same item)
+लुहार - blacksmith / ironsmith
 
+विवाह - marriage
 वीर - brave
 
 शिकार - hunt, prey
@@ -158,6 +177,8 @@
 सीटी - whistling
 सवाल - question
 सीख - learn
+सुन - listen
+सुनार - goldsmith
 
 हाथ - hand
 हिरन - deer
