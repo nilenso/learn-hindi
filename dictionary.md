@@ -3,6 +3,7 @@
 
 ## अ ##
 
+अच्छा - nice, good
 अनार - pomegranate
 अपना - ours
 अब - now
@@ -34,6 +35,7 @@
 
 उठ - get up
 उड़ - fly
+उस - that
 उन - those
 उल्लू - owl
 
@@ -48,13 +50,16 @@
 ## ऐ ##
 
 ऐनक - spectacles
+ऐसा - like this
 
 ## ओ ##
 
 ओखली - mortar
+ओर - towards, at
 
 ## औ ##
 
+और - and
 औरत - woman
 
 ## Consonants ##
@@ -70,11 +75,14 @@
 काम - work
 किताब - book
 किधर - where
+किनारे - side, edge
 किरन - ray, beam (of sun)
 की - of
 कीकर - partridge
 कुसुम - flower
 केले - banana
+कैसा - how
+कुचैला - trample
 
 खाना - food
 खा - eat
@@ -95,6 +103,7 @@
 गणित - math
 गुड़िया - doll
 गुलाब - rose
+गोल - sphere
 
 घड़ी - clock
 घर - house, home
@@ -123,19 +132,26 @@
 
 डाली - branch
 
+ढोल - drum
+
 तकली - spindle
 तितली - butterfly
 तीर - arrow
 तुम - you
+तैर - floating
+तोता - parrot
+तोल - weigh
 
 थाली - plate
 थूक - spit
+थैला - bag
 
 दादा - grandfather (father's father)
 दिन - day
 दिल - heart, mind
 दुम - tail
 दूध - milk
+देखो - look out
 
 धरती - earth, ground
 धुप - sunlight
@@ -144,6 +160,7 @@
 नाना - grandfather (mother's father)
 नाग - snake
 नाक - nose
+नाच - dance
 नानी - grandmother (mother's mother)
 नाम - name
 निकाल - answer, result
@@ -154,15 +171,20 @@
 पडी - lying (down)
 पढ़ - read
 पर - on, at, of, upon, onto
+परे - beyond
 प्रश्न - question
-पापा - dad
+पाठ - lesson, text
+पाठशाला - school
 पानी - water
+पापा - dad
 पी - drink
 पीतल - brass
 पीपल - peepal (tree)
 पीछे - behind
 पुल - bridge
 पेड़ - tree
+पैसा - money
+पैर - foot, leg
 प्यास - thirst
 
 फल - fruit
@@ -180,6 +202,7 @@
 बुन - weaving
 बुलबुल - nightingale
 बुढ़िया - old woman
+बोल - lyrics
 
 भालू - bear
 भूल - forget
@@ -194,12 +217,16 @@
 माला - garland
 माली - gardener
 मित्र - friend
+मीठे - sweet
 मोर - peacock
 मेले - carnival, fair
+मैला - dirty
+मोल - price
 
 ये - these
 
 रख - keep (it)
+रहा - stay
 राग - music
 रानी - queen
 रुपया - rupees, money
@@ -207,9 +234,11 @@
 रेल - rail
 रे - let us
 
+लग - feeling
+लगा - felt
 लाई - brought ("she brought")
 लाया - brought
-लाला - sir?
+लाला - shopkeeper
 लिख - write
 लड़ी - row (of same item)
 लुहार - blacksmith / ironsmith
@@ -219,17 +248,22 @@
 
 शिकार - hunt, prey
 शेर - lion
+शोर - noise
 
+सड़क - road
+सवाल - question
+सामान - goods, things, luggage
 सितार - sitar
 सीटी - whistling
-सवाल - question
 सीख - learn
 सुन - listen
 सुनार - goldsmith
 सूरज - sun
 सेब - apple
+सैर - walk, outing, excursion
 
 हर - every
+हट - move away
 हाथ - hand
 हिरन - deer
 हिसाब - calculate
