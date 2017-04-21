@@ -3,7 +3,9 @@
 
 ## अ ##
 
+अंगूर - grapes
 अच्छा - nice, good
+अंडा - egg
 अनार - pomegranate
 अपना - ours
 अब - now
@@ -11,8 +13,10 @@
 ## आ ##
 
 आ - come
+आएगा - will come
 आई - came ("she came")
 आओ - come
+आँख - eye
 आग - fire
 आज - today
 आते - come
@@ -34,6 +38,7 @@
 ## उ ##
 
 उठ - get up
+उठाएँगे - will lift
 उड़ - fly
 उस - that
 उन - those
@@ -41,6 +46,7 @@
 
 ## ऊ ##
 
+ऊंचा - high, elevated, exalted
 ऊन - wool
 
 ## ए ##
@@ -83,11 +89,15 @@
 केले - banana
 कैसा - how
 कुचैला - trample
+कौआ - crow
+कौन - who
 
 खाना - food
 खा - eat
+खाएंगे, खाएंगी - will eat (m/f)
 खिल - blossom, bloom
 खिला - blossomed
+खिलौना - toy
 खीर - kheer
 खुश - happy
 खून - blood
@@ -111,6 +121,7 @@
 चल - walk, move, go, run
 चली - walk, move, go, run
 चाचा - uncle (father's younger brother)
+चाँद - moon
 चिड़िया - bird
 चित्र - picture
 चीख - scream
@@ -125,17 +136,25 @@
 जगह - place
 जल - water
 जलन - jealousy, irritation, burn
+जान - life
 
+झुकने - bend
 झूठ - lies
+झंडा - flag
 झूला - swing
 झूल - swing (verb)
 
+ठौर - place
+
+डंडा - stick
 डाली - branch
 
 ढोल - drum
 
 तकली - spindle
 तितली - butterfly
+तिरंग - triangle
+तिरंगा - tri-colour
 तीर - arrow
 तुम - you
 तैर - floating
@@ -151,7 +170,11 @@
 दिल - heart, mind
 दुम - tail
 दूध - milk
+देख - see
 देखो - look out
+देश - country
+देना - give
+देंगे - will give
 
 धरती - earth, ground
 धुप - sunlight
@@ -167,11 +190,15 @@
 निकल - out
 निकला - come out
 नेक - honest, noble
+नौका - boat
+नौकर - servant
 
+पकौड़ा - pakora
 पडी - lying (down)
 पढ़ - read
 पर - on, at, of, upon, onto
 परे - beyond
+पहचान - identity
 प्रश्न - question
 पाठ - lesson, text
 पाठशाला - school
@@ -199,6 +226,7 @@
 बहुत - very, much, many, great
 बहुमत - majority
 बाजा - trumpet
+बिछौना - bed
 बुन - weaving
 बुलबुल - nightingale
 बुढ़िया - old woman
@@ -222,6 +250,7 @@
 मेले - carnival, fair
 मैला - dirty
 मोल - price
+मौसी - aunt
 
 ये - these
 
@@ -236,6 +265,7 @@
 
 लग - feeling
 लगा - felt
+लंगूर - langur
 लाई - brought ("she brought")
 लाया - brought
 लाला - shopkeeper
@@ -248,10 +278,12 @@
 
 शिकार - hunt, prey
 शेर - lion
+शान - pride
 शोर - noise
 
 सड़क - road
 सवाल - question
+साथ - with (के साथ)
 सामान - goods, things, luggage
 सितार - sitar
 सीटी - whistling
@@ -264,6 +296,8 @@
 
 हर - every
 हट - move away
+हथौड़ा - hammer
+हमारी - our
 हाथ - hand
 हिरन - deer
 हिसाब - calculate
